@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moja Aplikacja</string>
+    <string name="appStart">Projekt</string>
+    <string name="nextButtonText">Następna Aktywność</string>
+    <string name="addName">Dodaj Imię</string>
+    <string name="whoMadeApp">Aplikacja Zostałą Wykonana Przez Jakuba Moniakowskiego</string>
+    <string name="addMark">Dziękuję Za Poświęcony Czas, Dodaj Ocenę</string>
+    <string name="criteria">Ta APlikacja Spełnia Wymagania Na Ocenę 3</string>
+    <string name="previousButtonText">Poprzednia Aktywność</string>
+    <string name="nameToast">Imie Powinno Zaczynać Się Z Wielkiej Litery</string>
+</resources>

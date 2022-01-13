@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="appStart">Project</string>
+    <string name="nextButtonText">Next Activity</string>
+    <string name="addName">Add Your Name</string>
+    <string name="whoMadeApp">Application was created by Jakub Moniakowski</string>
+    <string name="addMark">Thank You For Your Time, Add Mark For This App</string>
+    <string name="criteria">This App Meets The Criteria For Grade 3</string>
+    <string name="previousButtonText">Previous Activity</string>
+    <string name="nameToast">Name should start from capital latter</string>
+</resources>
